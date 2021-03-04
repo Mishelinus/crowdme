@@ -1,0 +1,53 @@
+html{
+   box-sizing: border-box;
+}
+*,
+*::before,
+*::after{
+   box-sizing:inherit;
+}
+html,
+body {
+   height:100%;
+   position:relative;
+   overflow-x: hidden !important;
+}
+a{
+   display:inline-block;
+   text-decoration:none;
+   
+}
+ul,
+li{
+   margin:0;
+   padding:0;
+   list-style:none;
+}
+body{
+   
+   
+   
+}
+.wrapper {
+
+}
+.content{
+  
+}
+.footer{
+  
+}
+.container{  
+   max-width:1200px;
+   margin:0 auto;
+   
+}
+
+@media(max-width:720px){
+   .container-fluid{  
+      padding:0 15px;
+   }
+}
+
+
+
