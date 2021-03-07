@@ -11,6 +11,8 @@ body {
    height:100%;
    position:relative;
    overflow-x: hidden !important;
+   font-family: 'Open Sans';
+   
 }
 a{
    display:inline-block;
@@ -23,8 +25,9 @@ li{
    padding:0;
    list-style:none;
 }
-body{
-   
+.container{  
+   max-width:1020px;
+   margin:0 auto;
    
    
 }
@@ -37,11 +40,7 @@ body{
 .footer{
   
 }
-.container{  
-   max-width:1200px;
-   margin:0 auto;
-   
-}
+
 
 @media(max-width:720px){
    .container-fluid{  
