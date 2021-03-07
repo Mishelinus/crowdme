@@ -1,6 +1,15 @@
 $(function(){
-
+//slick_slider 
   $('.slider').slick();
+
+  //slick_slider2 в футере
+  $('.footer_slider').slick({
+    slidesToShow: 4,
+  slidesToScroll: 1,
+  autoplay: true,
+  autoplaySpeed: 2000,
+  arrows: false,
+  });
   
 
 
