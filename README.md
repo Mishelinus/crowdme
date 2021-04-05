@@ -1,6 +1,7 @@
 # crowdme
-##Testing site layout for upgrade my skill :)
+## Testing site layout for upgrade my skill :)
 
-using: Gulp, SCSS
+### using: Gulp, SCSS
 
-[crowdme](https://mishelinus.github.io/crowdme/)
+
+view it  [crowdme](https://mishelinus.github.io/crowdme/)
